@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Diwas Upadhyay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="Coading" width =  "400" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" /> 
+
 - 🔭 I’m currently working on [Unibud](https://www.unibud.in/)
 
 - 🌱 I’m currently learning **Data Structure And Algorithm**
