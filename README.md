@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Diwas Upadhyay</h1>
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Diwas+Upadhyay..;DRDO+Intern;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coading" width =  "400" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" /> 
